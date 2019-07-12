@@ -1,0 +1,11 @@
+5   26.60   
+T1
+Jes<U+00FA>s-Navas Ga<U+00EB>l-Clichy Aleksandar-Kolarov Javi-Garc<U+00ED>a Jack-Rodwell Yaya-Tour<U+00E9> Fernandinho James-Milner Sergio-Ag<U+00FC>ero Stevan-Jovetic Edin-Dzeko <U+00C1>lvaro-Negredo Vincent-Kompany Matija-Nastasic Joleon-Lescott Mart<U+00ED>n-Demichelis Karim-Rekik Dedryck-Boyata David-Silva Samir-Nasri Micah-Richards Pablo-Zabaleta Joe-Hart Costel-Pantilimon Richard-Wright 
+T2
+<U+00C1>ngel-DiMar<U+00ED>a Ga<U+00EB>l-Clichy Luke-Shaw Javi-Garc<U+00ED>a Yaya-Tour<U+00E9> Fernandinho James-Milner Cesc-F<U+00E0>bregas Sergio-Ag<U+00FC>ero Edin-Dzeko <U+00C1>lvaro-Negredo Danny-Welbeck Vincent-Kompany Matija-Nastasic Joleon-Lescott Mart<U+00ED>n-Demichelis Dedryck-Boyata Daley-Blind David-Silva Alexis-S<U+00E1>nchez Pablo-Zabaleta Mathieu-Debuchy Joe-Hart Costel-Pantilimon Willy-Caballero 
+T3
+<U+00C1>ngel-DiMar<U+00ED>a Aleksandar-Kolarov Filipe-Lu<U+00ED>s Javi-Garc<U+00ED>a Jack-Rodwell Yaya-Tour<U+00E9> Fernandinho Cesc-F<U+00E0>bregas Stevan-Jovetic Edin-Dzeko <U+00C1>lvaro-Negredo Didier-Drogba Vincent-Kompany Matija-Nastasic Mart<U+00ED>n-Demichelis Karim-Rekik Dedryck-Boyata Daley-Blind David-Silva Alexis-S<U+00E1>nchez Pablo-Zabaleta Bacary-Sagna Costel-Pantilimon Richard-Wright Willy-Caballero 
+T4
+<U+00C1>ngel-DiMar<U+00ED>a Ga<U+00EB>l-Clichy Luke-Shaw Javi-Garc<U+00ED>a Jack-Rodwell Fernandinho James-Milner Frank-Lampard Sergio-Ag<U+00FC>ero Edin-Dzeko <U+00C1>lvaro-Negredo Lo<U+00EF>c-R<U+00E9>my Vincent-Kompany Matija-Nastasic Joleon-Lescott Mart<U+00ED>n-Demichelis Karim-Rekik Eliaquim-Mangala David-Silva Alexis-S<U+00E1>nchez Micah-Richards Bacary-Sagna Costel-Pantilimon Richard-Wright David-Ospina 
+T5
+<U+00C1>ngel-DiMar<U+00ED>a Ga<U+00EB>l-Clichy Filipe-Lu<U+00ED>s Javi-Garc<U+00ED>a Jack-Rodwell Yaya-Tour<U+00E9> Fernandinho Bruno-Zuculini Sergio-Ag<U+00FC>ero Edin-Dzeko <U+00C1>lvaro-Negredo Falcao Vincent-Kompany Matija-Nastasic Mart<U+00ED>n-Demichelis Karim-Rekik Dedryck-Boyata Daley-Blind David-Silva Alexis-S<U+00E1>nchez Pablo-Zabaleta Mathieu-Debuchy Joe-Hart Richard-Wright David-Ospina 

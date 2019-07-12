@@ -1,0 +1,11 @@
+5   38.26   
+T1
+Gerard-Deulofeu Aiden-McGeady Kevin-Mirallas Leighton-Baines Bryan-Oviedo Gareth-Barry Marouane-Fellaini James-McCarthy Leon-Osman Darron-Gibson Steven-Naismith Romelu-Lukaku Lacina-Traor<U+00E9> Nikica-Jelavic Arouna-Kon<U+00E9> Victor-Anichebe Apostolos-Vellios Phil-Jagielka Johnny-Heitinga John-Stones Antol<U+00ED>n-Alcaraz Sylvain-Distin Ross-Barkley Steven-Pienaar Magaye-Gueye Seamus-Coleman Tony-Hibbert Tim-Howard Joel-Robles 
+T2
+Gerard-Deulofeu Aiden-McGeady Lazar-Markovic Bryan-Oviedo Ben-Davies Gareth-Barry Marouane-Fellaini James-McCarthy Darron-Gibson Emre-Can Steven-Naismith Romelu-Lukaku Lacina-Traor<U+00E9> Arouna-Kon<U+00E9> Victor-Anichebe Apostolos-Vellios Rickie-Lambert Johnny-Heitinga John-Stones Antol<U+00ED>n-Alcaraz Sylvain-Distin Federico-Fazio Siem-de-Jong Magaye-Gueye Steven-Pienaar Tony-Hibbert Javier-Manquillo Tim-Howard Michel-Vorm 
+T3
+Gerard-Deulofeu Kevin-Mirallas Christian-Atsu Bryan-Oviedo Brendan-Galloway Gareth-Barry James-McCarthy Leon-Osman Darron-Gibson Emre-Can Steven-Naismith Lacina-Traor<U+00E9> Nikica-Jelavic Arouna-Kon<U+00E9> Victor-Anichebe Apostolos-Vellios Facundo-Ferreyra Phil-Jagielka Johnny-Heitinga Antol<U+00ED>n-Alcaraz Sylvain-Distin Federico-Fazio Adam-Lallana Magaye-Gueye Steven-Pienaar Seamus-Coleman DeAndre-Yedlin Tim-Howard Michel-Vorm 
+T4
+Gerard-Deulofeu Aiden-McGeady Christian-Atsu Bryan-Oviedo Brendan-Galloway Gareth-Barry Marouane-Fellaini Leon-Osman Darron-Gibson Jack-Colback Romelu-Lukaku Lacina-Traor<U+00E9> Nikica-Jelavic Arouna-Kon<U+00E9> Victor-Anichebe Apostolos-Vellios Mario-Balotelli Johnny-Heitinga John-Stones Antol<U+00ED>n-Alcaraz Sylvain-Distin Jamaal-Lascelles Adam-Lallana Steven-Pienaar Magaye-Gueye Seamus-Coleman Javier-Manquillo Tim-Howard Karl-Darlow 
+T5
+Gerard-Deulofeu Aiden-McGeady Lazar-Markovic Leighton-Baines Ben-Davies Gareth-Barry James-McCarthy Leon-Osman Darron-Gibson Jack-Colback Steven-Naismith Romelu-Lukaku Lacina-Traor<U+00E9> Arouna-Kon<U+00E9> Victor-Anichebe Apostolos-Vellios Samuel-Eto'o Phil-Jagielka Johnny-Heitinga Antol<U+00ED>n-Alcaraz Sylvain-Distin Federico-Fazio R<U+00E9>my-Cabella Steven-Pienaar Magaye-Gueye Seamus-Coleman Javier-Manquillo Tim-Howard Karl-Darlow 

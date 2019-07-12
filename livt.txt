@@ -1,0 +1,11 @@
+5   57.46   
+T1
+Victor-Moses Suso Jos<U+00E9>-Enrique Aly-Cissokho Lucas-Leiva Joe-Allen Steven-Gerrard Jordan-Henderson Luis-Su<U+00E1>rez Daniel-Sturridge Iago-Aspas Daniel-Agger Mamadou-Sakho Martin-Skrtel Kolo-Tour<U+00E9> Sebasti<U+00E1>n-Coates Tiago-Ilori Philippe-Coutinho Luis-Alberto Raheem-Sterling Glen-Johnson Martin-Kelly Andre-Wisdom Pepe-Reina Simon-Mignolet Brad-Jones 
+T2
+Suso Lazar-Markovic Jos<U+00E9>-Enrique Brendan-Galloway Lucas-Leiva Steven-Gerrard Jordan-Henderson Gareth-Barry Luis-Su<U+00E1>rez Daniel-Sturridge Facundo-Ferreyra Daniel-Agger Martin-Skrtel Kolo-Tour<U+00E9> Sebasti<U+00E1>n-Coates Tiago-Ilori Dejan-Lovren Luis-Alberto Siem-de-Jong Raheem-Sterling Glen-Johnson Andre-Wisdom Javier-Manquillo Pepe-Reina Brad-Jones Michel-Vorm 
+T3
+Victor-Moses Christian-Atsu Jos<U+00E9>-Enrique Ben-Davies Joe-Allen Steven-Gerrard Jordan-Henderson Benjamin-Stambouli Luis-Su<U+00E1>rez Iago-Aspas Mario-Balotelli Daniel-Agger Martin-Skrtel Kolo-Tour<U+00E9> Sebasti<U+00E1>n-Coates Tiago-Ilori Federico-Fazio Luis-Alberto Adam-Lallana Raheem-Sterling Glen-Johnson Martin-Kelly Javier-Manquillo Pepe-Reina Simon-Mignolet Karl-Darlow 
+T4
+Suso Christian-Atsu Jos<U+00E9>-Enrique Alberto-Moreno Lucas-Leiva Joe-Allen Steven-Gerrard Eric-Dier Luis-Su<U+00E1>rez Daniel-Sturridge Facundo-Ferreyra Daniel-Agger Mamadou-Sakho Kolo-Tour<U+00E9> Sebasti<U+00E1>n-Coates Tiago-Ilori Dejan-Lovren Philippe-Coutinho R<U+00E9>my-Cabella Raheem-Sterling Martin-Kelly Andre-Wisdom Javier-Manquillo Pepe-Reina Simon-Mignolet Michel-Vorm 
+T5
+Suso Christian-Atsu Aly-Cissokho Alberto-Moreno Lucas-Leiva Joe-Allen Jordan-Henderson Muhamed-Besic Luis-Su<U+00E1>rez Iago-Aspas Romelu-Lukaku Daniel-Agger Mamadou-Sakho Martin-Skrtel Kolo-Tour<U+00E9> Sebasti<U+00E1>n-Coates Dejan-Lovren Luis-Alberto R<U+00E9>my-Cabella Raheem-Sterling Martin-Kelly Andre-Wisdom Javier-Manquillo Pepe-Reina Brad-Jones Michel-Vorm 

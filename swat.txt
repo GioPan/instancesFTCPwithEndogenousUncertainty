@@ -1,0 +1,11 @@
+5   0.00    
+T1
+Pablo-Hern<U+00E1>ndez Nathan-Dyer Neil-Taylor Ben-Davies Sung-Yong-Ki Jos<U+00E9>-Alberto-Ca<U+00F1>as Jonjo-Shelvey Leon-Britton Jay-Fulton Michu Wilfried-Bony Marvin-Emnes <U+00C1>lvaro-V<U+00E1>zquez David-N'Gog Leroy-Lita Ashley-Williams Chico Jordi-Amat Kyle-Bartley Garry-Monk Alan-Tate Jonathan-de-Guzm<U+00E1>n Alejandro-Pozuelo Wayne-Routledge Roland-Lamah <U+00C1>ngel-Rangel Dwight-Tiendalli Jazz-Richards Michel-Vorm Gerhard-Tremmel 
+T2
+Nathan-Dyer Modou-Barrow Ben-Davies Kieran-Richardson Sung-Yong-Ki Jos<U+00E9>-Alberto-Ca<U+00F1>as Leon-Britton Jay-Fulton Saphir-Taider Michu Wilfried-Bony Marvin-Emnes <U+00C1>lvaro-V<U+00E1>zquez David-N'Gog Graziano-Pell<U+00E8> Chico Jordi-Amat Kyle-Bartley Garry-Monk Alan-Tate Jos-Hooiveld Jonathan-de-Guzm<U+00E1>n Joe-Cole Roland-Lamah Dusan-Tadic <U+00C1>ngel-Rangel Dwight-Tiendalli Jazz-Richards Michel-Vorm Fraser-Forster 
+T3
+Pablo-Hern<U+00E1>ndez Modou-Barrow Neil-Taylor Ryan-Bertrand Jos<U+00E9>-Alberto-Ca<U+00F1>as Jonjo-Shelvey Leon-Britton Jay-Fulton Tom-Cleverley Wilfried-Bony Marvin-Emnes <U+00C1>lvaro-V<U+00E1>zquez David-N'Gog Leroy-Lita Kyle-Lafferty Chico Jordi-Amat Kyle-Bartley Garry-Monk Alan-Tate Florin-Gardos Jonathan-de-Guzm<U+00E1>n Gylfi-Sigurdsson Roland-Lamah Dusan-Tadic <U+00C1>ngel-Rangel Jazz-Richards Dwight-Tiendalli Gerhard-Tremmel Fraser-Forster 
+T4
+Pablo-Hern<U+00E1>ndez Modou-Barrow Ben-Davies Ryan-Bertrand Sung-Yong-Ki Jos<U+00E9>-Alberto-Ca<U+00F1>as Leon-Britton Jay-Fulton Vadis-Odjidja-Ofoe Michu Marvin-Emnes <U+00C1>lvaro-V<U+00E1>zquez David-N'Gog Leroy-Lita Lewis-Grabban Ashley-Williams Chico Kyle-Bartley Garry-Monk Alan-Tate Federico-Fern<U+00E1>ndez Jonathan-de-Guzm<U+00E1>n Gylfi-Sigurdsson Wayne-Routledge Sadio-Man<U+00E9> <U+00C1>ngel-Rangel Jazz-Richards Dwight-Tiendalli Gerhard-Tremmel Lukasz-Fabianski 
+T5
+Pablo-Hern<U+00E1>ndez Modou-Barrow Neil-Taylor Ryan-Bertrand Sung-Yong-Ki Jonjo-Shelvey Leon-Britton Jay-Fulton Saphir-Taider Michu Wilfried-Bony Marvin-Emnes <U+00C1>lvaro-V<U+00E1>zquez David-N'Gog Lewis-Grabban Ashley-Williams Chico Jordi-Amat Kyle-Bartley Alan-Tate Jos-Hooiveld Alejandro-Pozuelo Gylfi-Sigurdsson Roland-Lamah Sadio-Man<U+00E9> <U+00C1>ngel-Rangel Dwight-Tiendalli Jazz-Richards Gerhard-Tremmel Lukasz-Fabianski 

@@ -1,0 +1,11 @@
+5   149.35  
+T1
+Wilfried-Zaha Nani Beb<U+00E9> Patrice-Evra F<U+00E1>bio Alexander-B<U+00FC>ttner Michael-Carrick Marouane-Fellaini Tom-Cleverley Anderson Darren-Fletcher Ryan-Giggs Wayne-Rooney Robin-van-Persie Chicharito Danny-Welbeck <U+00C1>ngelo-Henr<U+00ED>quez Federico-Macheda Nemanja-Vidic<U+200E> Phil-Jones Chris-Smalling Jonny-Evans Rio-Ferdinand Juan-Mata Shinji-Kagawa Ashley-Young Antonio-Valencia Rafael David-de-Gea Anders-Lindegaard Ben-Amos 
+T2
+Wilfried-Zaha Nani <U+00C1>ngel-DiMar<U+00ED>a Patrice-Evra F<U+00E1>bio Filipe-Lu<U+00ED>s Michael-Carrick Marouane-Fellaini Tom-Cleverley Darren-Fletcher Ryan-Giggs Fernando Wayne-Rooney Robin-van-Persie Chicharito Danny-Welbeck Federico-Macheda Didier-Drogba Nemanja-Vidic<U+200E> Phil-Jones Jonny-Evans Rio-Ferdinand Marcos-Rojo Shinji-Kagawa Juan-Mata Alexis-S<U+00E1>nchez Rafael Calum-Chambers David-de-Gea Ben-Amos Willy-Caballero 
+T3
+Wilfried-Zaha Beb<U+00E9> <U+00C1>ngel-DiMar<U+00ED>a Patrice-Evra F<U+00E1>bio Filipe-Lu<U+00ED>s Michael-Carrick Marouane-Fellaini Anderson Darren-Fletcher Ryan-Giggs Mario-Pasalic Wayne-Rooney Chicharito Danny-Welbeck <U+00C1>ngelo-Henr<U+00ED>quez Federico-Macheda Falcao Nemanja-Vidic<U+200E> Phil-Jones Chris-Smalling Jonny-Evans Eliaquim-Mangala Shinji-Kagawa Juan-Mata Alexis-S<U+00E1>nchez Antonio-Valencia Bacary-Sagna David-de-Gea Ben-Amos Willy-Caballero 
+T4
+Wilfried-Zaha Beb<U+00E9> <U+00C1>ngel-DiMar<U+00ED>a Patrice-Evra F<U+00E1>bio Filipe-Lu<U+00ED>s Michael-Carrick Tom-Cleverley Anderson Darren-Fletcher Ryan-Giggs Cesc-F<U+00E0>bregas Wayne-Rooney Robin-van-Persie Danny-Welbeck <U+00C1>ngelo-Henr<U+00ED>quez Federico-Macheda Didier-Drogba Phil-Jones Chris-Smalling Jonny-Evans Rio-Ferdinand Daley-Blind Juan-Mata Shinji-Kagawa Alexis-S<U+00E1>nchez Antonio-Valencia Bacary-Sagna Anders-Lindegaard Ben-Amos Willy-Caballero 
+T5
+Nani Beb<U+00E9> <U+00C1>ngel-DiMar<U+00ED>a F<U+00E1>bio Alexander-B<U+00FC>ttner Luke-Shaw Michael-Carrick Marouane-Fellaini Tom-Cleverley Darren-Fletcher Ryan-Giggs Frank-Lampard Wayne-Rooney Robin-van-Persie Chicharito Danny-Welbeck Federico-Macheda Falcao Phil-Jones Chris-Smalling Jonny-Evans Rio-Ferdinand Daley-Blind Shinji-Kagawa Juan-Mata Alexis-S<U+00E1>nchez Rafael Calum-Chambers Anders-Lindegaard Ben-Amos David-Ospina 

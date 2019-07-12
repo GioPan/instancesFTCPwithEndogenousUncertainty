@@ -1,0 +1,2 @@
+salary/value	selling/value	purchase/value	discount rate
+0.1		0.9		1.22		0.07

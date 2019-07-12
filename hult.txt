@@ -1,0 +1,11 @@
+5   25.31   
+T1
+Maynor-Figueroa Robbie-Brady Joe-Dudgeon Tom-Huddlestone Jake-Livermore David-Meyler Stephen-Quinn Ahmed-Elmohamady George-Boyd Sone-Aluko Nikica-Jelavic Shane-Long Danny-Graham Matty-Fryatt Yannick-Sagbo Nick-Proschwitz Gedo Aaron-McLean Curtis-Davies Paul-McShane James-Chester Alex-Bruce Abdoulaye-Fay<U+00E9> Robert-Koren Cameron-Stewart Liam-Rosenior Allan-McGregor Eldin-Jakupovic Steve-Harper Mark-Oxley 
+T2
+Maynor-Figueroa Joe-Dudgeon Andrew-Robertson Tom-Huddlestone Jake-Livermore David-Meyler Stephen-Quinn Ahmed-Elmohamady Anthony-Pilkington Sone-Aluko Nikica-Jelavic Danny-Graham Matty-Fryatt Yannick-Sagbo Nick-Proschwitz Gedo Aaron-McLean Fraizer-Campbell Paul-McShane James-Chester Alex-Bruce Abdoulaye-Fay<U+00E9> Brede-Hangeland Hatem-Ben-Arfa Silvestre-Varela Cristian-Gamboa Allan-McGregor Eldin-Jakupovic Steve-Harper Mark-Oxley 
+T3
+Robbie-Brady Joe-Dudgeon S<U+00E9>bastien-Pocognoli Tom-Huddlestone Jake-Livermore David-Meyler Stephen-Quinn George-Boyd Kagisho-Dikgacoi Sone-Aluko Nikica-Jelavic Shane-Long Danny-Graham Yannick-Sagbo Nick-Proschwitz Gedo Aaron-McLean Andy-Johnson Curtis-Davies James-Chester Alex-Bruce Abdoulaye-Fay<U+00E9> Sean-Morrison Sebasti<U+00E1>n-Blanco Georgios-Samaras Andre-Wisdom Allan-McGregor Eldin-Jakupovic Mark-Oxley Steve-Harper 
+T4
+Robbie-Brady Joe-Dudgeon Andrew-Robertson Jake-Livermore David-Meyler Stephen-Quinn Ahmed-Elmohamady George-Boyd Kagisho-Dikgacoi Sone-Aluko Nikica-Jelavic Danny-Graham Matty-Fryatt Yannick-Sagbo Nick-Proschwitz Gedo Aaron-McLean Guido-Burgstaller Curtis-Davies Paul-McShane James-Chester Alex-Bruce Harry-Maguire Gast<U+00F3>n-Ram<U+00ED>rez Silvestre-Varela Martin-Kelly Eldin-Jakupovic Steve-Harper Mark-Oxley Allan-McGregor 
+T5
+Robbie-Brady Joe-Dudgeon Zeki-Fryers Tom-Huddlestone David-Meyler Stephen-Quinn Ahmed-Elmohamady George-Boyd Chris-Baird Sone-Aluko Nikica-Jelavic Shane-Long Danny-Graham Matty-Fryatt Yannick-Sagbo Nick-Proschwitz Gedo Fraizer-Campbell Curtis-Davies James-Chester Alex-Bruce Abdoulaye-Fay<U+00E9> Sean-Morrison Gast<U+00F3>n-Ram<U+00ED>rez Georgios-Samaras Martin-Kelly Eldin-Jakupovic Steve-Harper Mark-Oxley Allan-McGregor 

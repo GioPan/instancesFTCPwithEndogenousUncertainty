@@ -1,0 +1,11 @@
+5   0.00    
+T1
+Robert-Snodgrass Nathan-Redmond Martin-Olsson Javier-Garrido Alexander-Tettey Leroy-Fer Jonathan-Howson Bradley-Johnson David-Fox Elliott-Bennett Jon<U+00E1>s-Guti<U+00E9>rrez Anthony-Pilkington Ricky-van-Wolfswinkel Gary-Hooper Johan-Elmander Luciano-Becchio S<U+00E9>bastien-Bassong Joseph-Yobo Ryan-Bennett Russell-Martin Michael-Turner Wesley-Hoolahan Steven-Whittaker John-Ruddy Mark-Bunn Carlo-Nash 
+T2
+Robert-Snodgrass Modou-Barrow Javier-Garrido Aly-Cissokho Alexander-Tettey Leroy-Fer Jonathan-Howson Bradley-Johnson David-Fox Jon<U+00E1>s-Guti<U+00E9>rrez Anthony-Pilkington Saphir-Taider Ricky-van-Wolfswinkel Gary-Hooper Johan-Elmander Graziano-Pell<U+00E8> S<U+00E9>bastien-Bassong Joseph-Yobo Russell-Martin Michael-Turner Toby-Alderweireld Gylfi-Sigurdsson Steven-Whittaker Mark-Bunn Carlo-Nash Lukasz-Fabianski 
+T3
+Robert-Snodgrass Modou-Barrow Martin-Olsson Ryan-Bertrand Alexander-Tettey Leroy-Fer Jonathan-Howson Bradley-Johnson David-Fox Elliott-Bennett Jon<U+00E1>s-Guti<U+00E9>rrez Vadis-Odjidja-Ofoe Ricky-van-Wolfswinkel Gary-Hooper Johan-Elmander Bafetimbi-Gomis S<U+00E9>bastien-Bassong Joseph-Yobo Ryan-Bennett Russell-Martin Carlos-Cu<U+00E9>llar Joe-Cole Steven-Whittaker John-Ruddy Mark-Bunn Fraser-Forster 
+T4
+Nathan-Redmond Modou-Barrow Javier-Garrido Ryan-Bertrand Alexander-Tettey Jonathan-Howson Bradley-Johnson David-Fox Elliott-Bennett Jon<U+00E1>s-Guti<U+00E9>rrez Anthony-Pilkington Gary-O'Neil Ricky-van-Wolfswinkel Johan-Elmander Luciano-Becchio Lewis-Grabban Joseph-Yobo Ryan-Bennett Russell-Martin Michael-Turner Federico-Fern<U+00E1>ndez Gylfi-Sigurdsson Steven-Whittaker Mark-Bunn Carlo-Nash Fraser-Forster 
+T5
+Nathan-Redmond Modou-Barrow Martin-Olsson Kieran-Richardson Alexander-Tettey Leroy-Fer Jonathan-Howson Bradley-Johnson David-Fox Jon<U+00E1>s-Guti<U+00E9>rrez Anthony-Pilkington Vadis-Odjidja-Ofoe Ricky-van-Wolfswinkel Gary-Hooper Johan-Elmander Shane-Long S<U+00E9>bastien-Bassong Joseph-Yobo Ryan-Bennett Michael-Turner Federico-Fern<U+00E1>ndez Joe-Cole Steven-Whittaker John-Ruddy Carlo-Nash Lukasz-Fabianski 

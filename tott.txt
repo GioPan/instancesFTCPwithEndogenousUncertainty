@@ -1,0 +1,11 @@
+5   6.79    
+T1
+<U+00C9>rik-Lamela Aaron-Lennon Andros-Townsend Iago-Falqu<U+00E9> Danny-Rose Zeki-Fryers Sandro <U+00C9>tienne-Capoue Mousa-Demb<U+00E9>l<U+00E9> Paulinho Lewis-Holtby Tom-Carroll Roberto-Soldado Emmanuel-Adebayor Jermain-Defoe Harry-Kane Jan-Vertonghen Youn<U+00E8>s-Kaboul Michael-Dawson Vlad-Chiriches Christian-Eriksen Gylfi-Sigurdsson Nacer-Chadli Kyle-Walker Kyle-Naughton Hugo-Lloris Heurelho-Gomes Brad-Friedel 
+T2
+<U+00C9>rik-Lamela Aaron-Lennon Iago-Falqu<U+00E9> Christian-Atsu Danny-Rose Alberto-Moreno Sandro <U+00C9>tienne-Capoue Mousa-Demb<U+00E9>l<U+00E9> Paulinho Tom-Carroll Eric-Dier Roberto-Soldado Emmanuel-Adebayor Harry-Kane Mario-Balotelli Youn<U+00E8>s-Kaboul Michael-Dawson Vlad-Chiriches Dejan-Lovren Gylfi-Sigurdsson Siem-de-Jong Nacer-Chadli Kyle-Naughton Daryl-Janmaat Hugo-Lloris Heurelho-Gomes Karl-Darlow 
+T3
+<U+00C9>rik-Lamela Aaron-Lennon Andros-Townsend Lazar-Markovic Zeki-Fryers Ben-Davies Sandro Mousa-Demb<U+00E9>l<U+00E9> Paulinho Lewis-Holtby Tom-Carroll Jack-Colback Roberto-Soldado Jermain-Defoe Harry-Kane Ayoze-P<U+00E9>rez Jan-Vertonghen Michael-Dawson Vlad-Chiriches Federico-Fazio Gylfi-Sigurdsson R<U+00E9>my-Cabella Nacer-Chadli Kyle-Walker Javier-Manquillo Hugo-Lloris Heurelho-Gomes Karl-Darlow 
+T4
+<U+00C9>rik-Lamela Andros-Townsend Iago-Falqu<U+00E9> Lazar-Markovic Danny-Rose Ben-Davies Sandro <U+00C9>tienne-Capoue Mousa-Demb<U+00E9>l<U+00E9> Lewis-Holtby Tom-Carroll Muhamed-Besic Roberto-Soldado Jermain-Defoe Harry-Kane Samuel-Eto'o Jan-Vertonghen Michael-Dawson Vlad-Chiriches Dejan-Lovren Christian-Eriksen R<U+00E9>my-Cabella Nacer-Chadli Kyle-Naughton Javier-Manquillo Hugo-Lloris Heurelho-Gomes Michel-Vorm 
+T5
+<U+00C9>rik-Lamela Andros-Townsend Iago-Falqu<U+00E9> Lazar-Markovic Danny-Rose Ben-Davies Sandro <U+00C9>tienne-Capoue Mousa-Demb<U+00E9>l<U+00E9> Paulinho Lewis-Holtby Kevin-Stewart Roberto-Soldado Emmanuel-Adebayor Harry-Kane Rickie-Lambert Jan-Vertonghen Youn<U+00E8>s-Kaboul Michael-Dawson Dejan-Lovren Gylfi-Sigurdsson Adam-Lallana Nacer-Chadli Kyle-Walker Javier-Manquillo Hugo-Lloris Brad-Friedel Michel-Vorm 

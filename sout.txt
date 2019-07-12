@@ -1,0 +1,11 @@
+5   0.00    
+T1
+Luke-Shaw Danny-Fox Victor-Wanyama Morgan-Schneiderlin Jack-Cork Steven-Davis James-Ward-Prowse Tadanari-Lee Daniel-Osvaldo Rickie-Lambert Billy-Sharp Emmanuel-Mayuka Dejan-Lovren Maya-Yoshida Jos<U+00E9>-Fonte Jos-Hooiveld Gast<U+00F3>n-Ram<U+00ED>rez Adam-Lallana Guly Jay-Rodr<U+00ED>guez Nathaniel-Clyne Paulo-Gazzaniga Artur-Boruc Kelvin-Davis 
+T2
+Danny-Fox Aly-Cissokho Victor-Wanyama Morgan-Schneiderlin Jack-Cork James-Ward-Prowse Tom-Cleverley Tadanari-Lee Daniel-Osvaldo Rickie-Lambert Billy-Sharp Marvin-Emnes Dejan-Lovren Maya-Yoshida Jos<U+00E9>-Fonte Philippe-Senderos Adam-Lallana Guly Joe-Cole Jefferson-Montero Nathaniel-Clyne Paulo-Gazzaniga Artur-Boruc Fraser-Forster 
+T3
+Luke-Shaw Aly-Cissokho Morgan-Schneiderlin Jack-Cork Steven-Davis James-Ward-Prowse Gary-O'Neil Tadanari-Lee Rickie-Lambert Billy-Sharp Emmanuel-Mayuka Cameron-Jerome Dejan-Lovren Maya-Yoshida Jos-Hooiveld Carlos-Cu<U+00E9>llar Gast<U+00F3>n-Ram<U+00ED>rez Adam-Lallana Gylfi-Sigurdsson Dusan-Tadic Nathaniel-Clyne Artur-Boruc Kelvin-Davis Lukasz-Fabianski 
+T4
+Luke-Shaw Kieran-Richardson Victor-Wanyama Morgan-Schneiderlin Jack-Cork Steven-Davis Gary-O'Neil Tadanari-Lee Daniel-Osvaldo Rickie-Lambert Emmanuel-Mayuka Bafetimbi-Gomis Dejan-Lovren Maya-Yoshida Jos<U+00E9>-Fonte Federico-Fern<U+00E1>ndez Gast<U+00F3>n-Ram<U+00ED>rez Guly Gylfi-Sigurdsson Jefferson-Montero Nathaniel-Clyne Artur-Boruc Kelvin-Davis Lukasz-Fabianski 
+T5
+Danny-Fox Stephen-Kingsley Victor-Wanyama Morgan-Schneiderlin Steven-Davis James-Ward-Prowse Gary-O'Neil Tadanari-Lee Daniel-Osvaldo Billy-Sharp Emmanuel-Mayuka Kyle-Lafferty Dejan-Lovren Maya-Yoshida Jos-Hooiveld Ignasi-Miquel Gast<U+00F3>n-Ram<U+00ED>rez Guly Gylfi-Sigurdsson Dusan-Tadic Nathaniel-Clyne Artur-Boruc Kelvin-Davis Lukasz-Fabianski 

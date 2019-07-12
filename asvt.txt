@@ -1,0 +1,11 @@
+5   8.00    
+T1
+Charles-N'Zogbia Andreas-Weimann Ryan-Bertrand Joe-Bennett Antonio-Luna Enda-Stevens Ashley-Westwood Yacouba-Sylla Chris-Herd Karim-El-Ahmadi Fabian-Delph Gary-Gardner Marc-Albrighton Darren-Bent Christian-Benteke Gabriel-Agbonlahor Grant-Holt Libor-Koz<U+00E1>k Nicklas-Helenius Jordan-Bowery Ron-Vlaar Ciaran-Clark Jores-Okore Nathan-Baker Philippe-Senderos Aleksandar-Tonev Matthew-Lowton Alan-Hutton Leandro-Bacuna Brad-Guzan Shay-Given 
+T2
+Andreas-Weimann Modou-Barrow Ryan-Bertrand Joe-Bennett Antonio-Luna Aly-Cissokho Ashley-Westwood Yacouba-Sylla Chris-Herd Karim-El-Ahmadi Fabian-Delph Marc-Albrighton Louis-Thompson Darren-Bent Christian-Benteke Grant-Holt Libor-Koz<U+00E1>k Nicklas-Helenius Jordan-Bowery Shane-Long Ron-Vlaar Ciaran-Clark Jores-Okore Philippe-Senderos Federico-Fern<U+00E1>ndez Jefferson-Montero Matthew-Lowton Leandro-Bacuna Alan-Hutton Brad-Guzan Lukasz-Fabianski 
+T3
+Andreas-Weimann Modou-Barrow Ryan-Bertrand Joe-Bennett Antonio-Luna Kieran-Richardson Ashley-Westwood Chris-Herd Karim-El-Ahmadi Fabian-Delph Gary-Gardner Marc-Albrighton Gary-O'Neil Christian-Benteke Gabriel-Agbonlahor Grant-Holt Libor-Koz<U+00E1>k Nicklas-Helenius Jordan-Bowery Lewis-Grabban Ron-Vlaar Ciaran-Clark Nathan-Baker Philippe-Senderos Ignasi-Miquel Sadio-Man<U+00E9> Alan-Hutton Leandro-Bacuna Matthew-Lowton Brad-Guzan Lukasz-Fabianski 
+T4
+Andreas-Weimann Modou-Barrow Ryan-Bertrand Joe-Bennett Antonio-Luna Aly-Cissokho Ashley-Westwood Yacouba-Sylla Karim-El-Ahmadi Fabian-Delph Gary-Gardner Marc-Albrighton Gary-O'Neil Darren-Bent Christian-Benteke Gabriel-Agbonlahor Grant-Holt Libor-Koz<U+00E1>k Nicklas-Helenius Shane-Long Ron-Vlaar Ciaran-Clark Jores-Okore Philippe-Senderos Toby-Alderweireld Jefferson-Montero Alan-Hutton Leandro-Bacuna Matthew-Lowton Shay-Given Fraser-Forster 
+T5
+Charles-N'Zogbia Modou-Barrow Ryan-Bertrand Joe-Bennett Enda-Stevens Kieran-Richardson Yacouba-Sylla Chris-Herd Karim-El-Ahmadi Fabian-Delph Gary-Gardner Marc-Albrighton Tom-Cleverley Christian-Benteke Gabriel-Agbonlahor Grant-Holt Libor-Koz<U+00E1>k Nicklas-Helenius Jordan-Bowery Lewis-Grabban Ron-Vlaar Ciaran-Clark Nathan-Baker Philippe-Senderos Ignasi-Miquel Jefferson-Montero Alan-Hutton Leandro-Bacuna Matthew-Lowton Shay-Given Fraser-Forster 

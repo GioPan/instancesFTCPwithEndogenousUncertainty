@@ -1,0 +1,11 @@
+5   0.00    
+T1
+Jermaine-Pennant Jonathan-Walters Peter-Odemwingie Erik-Pieters Brek-Shea Steven-N'Zonzi Glenn-Whelan Wilson-Palacios Charlie-Adam Matthew-Etherington John-Guidetti Kenwyne-Jones Peter-Crouch Cameron-Jerome Juan-Agudelo Ryan-Shawcross Robert-Huth Marc-Wilson Geoff-Cameron Marc-Muniesa Stephen-Ireland Marko-Arnautovic Oussama-Assaidi Andy-Wilkinson Ryan-Shotton Asmir-Begovic Jack-Butland Thomas-S<U+00F6>rensen 
+T2
+Jonathan-Walters Peter-Odemwingie Morgan-Amalfitano Brek-Shea Patrick-van-Aanholt Steven-N'Zonzi Glenn-Whelan Wilson-Palacios Matthew-Etherington Tim-Hoogland John-Guidetti Kenwyne-Jones Peter-Crouch Cameron-Jerome Matt-Smith Ryan-Shawcross Robert-Huth Geoff-Cameron Marc-Muniesa Sebasti<U+00E1>n-Coates Ricardo-<U+00C1>lvarez Marko-Arnautovic Oussama-Assaidi Ryan-Shotton Billy-Jones Asmir-Begovic Thomas-S<U+00F6>rensen G<U+00E1>bor-Kir<U+00E1>ly 
+T3
+Jonathan-Walters Peter-Odemwingie Victor-Moses Brek-Shea Patrick-van-Aanholt Steven-N'Zonzi Glenn-Whelan Wilson-Palacios Matthew-Etherington Cheikhou-Kouyat<U+00E9> John-Guidetti Kenwyne-Jones Peter-Crouch Juan-Agudelo Bojan-Krkic Ryan-Shawcross Robert-Huth Marc-Wilson Marc-Muniesa Nikolay-Bodurov Jordi-G<U+00F3>mez Oussama-Assaidi Marko-Arnautovic Ryan-Shotton Anthony-R<U+00E9>veill<U+00E8>re Asmir-Begovic Thomas-S<U+00F6>rensen G<U+00E1>bor-Kir<U+00E1>ly 
+T4
+Jonathan-Walters Peter-Odemwingie Morgan-Amalfitano Erik-Pieters Aaron-Cresswell Steven-N'Zonzi Wilson-Palacios Charlie-Adam Matthew-Etherington Jack-Rodwell John-Guidetti Peter-Crouch Cameron-Jerome Juan-Agudelo Ross-McCormack Ryan-Shawcross Robert-Huth Marc-Wilson Marc-Muniesa Sebasti<U+00E1>n-Coates Thomas-Eisfeld Marko-Arnautovic Oussama-Assaidi Andy-Wilkinson Billy-Jones Asmir-Begovic Jack-Butland Costel-Pantilimon 
+T5
+Jermaine-Pennant Peter-Odemwingie Morgan-Amalfitano Erik-Pieters Aaron-Cresswell Steven-N'Zonzi Wilson-Palacios Charlie-Adam Matthew-Etherington Alex-Song John-Guidetti Kenwyne-Jones Peter-Crouch Cameron-Jerome Mauro-Z<U+00E1>rate Ryan-Shawcross Robert-Huth Marc-Wilson Marc-Muniesa Nikolay-Bodurov Thomas-Eisfeld Oussama-Assaidi Marko-Arnautovic Ryan-Shotton Phil-Bardsley Asmir-Begovic Jack-Butland Costel-Pantilimon 

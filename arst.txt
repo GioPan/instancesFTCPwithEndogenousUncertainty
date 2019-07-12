@@ -1,0 +1,11 @@
+5   76.53   
+T1
+Alex-Oxlade-Chamberlain Wellington-Silva Theo-Walcott Nacho-Monreal Kieran-Gibbs Mathieu-Flamini Francis-Coquelin Abou-Diaby Jack-Wilshere Santi-Cazorla Mikel-Arteta Aaron-Ramsey Lukas-Podolski Olivier-Giroud Nicklas-Bendtner Chu-Young-Park Yaya-Sanogo Thomas-Vermaelen Per-Mertesacker Laurent-Koscielny Johan-Djourou Mesut-Özil Tomás-Rosicky Joel-Campbell Ryo-Miyaichi Bacary-Sagna Carl-Jenkinson Héctor-Bellerín Wojciech-Szczesny Lukasz-Fabianski 
+T2
+Alex-Oxlade-Chamberlain Wellington-Silva <U+00C1>ngel-DiMar<U+00ED>a Nacho-Monreal Filipe-Lu<U+00ED>s Francis-Coquelin Abou-Diaby Jack-Wilshere Santi-Cazorla Mikel-Arteta Aaron-Ramsey Cesc-F<U+00E0>bregas Lukas-Podolski Olivier-Giroud Chu-Young-Park Yaya-Sanogo Falcao Thomas-Vermaelen Laurent-Koscielny Johan-Djourou Eliaquim-Mangala Mesut-Özil Tomás-Rosicky Ryo-Miyaichi Alexis-S<U+00E1>nchez Carl-Jenkinson Héctor-Bellerín Calum-Chambers Wojciech-Szczesny Willy-Caballero 
+T3
+Wellington-Silva Theo-Walcott <U+00C1>ngel-DiMar<U+00ED>a Kieran-Gibbs Filipe-Lu<U+00ED>s Mathieu-Flamini Francis-Coquelin Abou-Diaby Santi-Cazorla Mikel-Arteta Aaron-Ramsey Frank-Lampard Lukas-Podolski Olivier-Giroud Nicklas-Bendtner Yaya-Sanogo Diego-Costa Thomas-Vermaelen Per-Mertesacker Johan-Djourou Marcos-Rojo Tomás-Rosicky Mesut-Özil Joel-Campbell Alexis-S<U+00E1>nchez Bacary-Sagna Héctor-Bellerín Calum-Chambers Wojciech-Szczesny Willy-Caballero 
+T4
+Alex-Oxlade-Chamberlain Wellington-Silva <U+00C1>ngel-DiMar<U+00ED>a Nacho-Monreal Luke-Shaw Mathieu-Flamini Francis-Coquelin Abou-Diaby Jack-Wilshere Santi-Cazorla Aaron-Ramsey Cesc-F<U+00E0>bregas Olivier-Giroud Nicklas-Bendtner Chu-Young-Park Yaya-Sanogo Lo<U+00EF>c-R<U+00E9>my Thomas-Vermaelen Per-Mertesacker Johan-Djourou Marcos-Rojo Tomás-Rosicky Mesut-Özil Joel-Campbell Alexis-S<U+00E1>nchez Carl-Jenkinson Héctor-Bellerín Mathieu-Debuchy Wojciech-Szczesny David-Ospina 
+T5
+Wellington-Silva Theo-Walcott <U+00C1>ngel-DiMar<U+00ED>a Nacho-Monreal Luke-Shaw Mathieu-Flamini Francis-Coquelin Abou-Diaby Santi-Cazorla Mikel-Arteta Aaron-Ramsey Mario-Pasalic Lukas-Podolski Olivier-Giroud Nicklas-Bendtner Yaya-Sanogo Didier-Drogba Thomas-Vermaelen Laurent-Koscielny Johan-Djourou Eliaquim-Mangala Mesut-Özil Tomás-Rosicky Joel-Campbell Alexis-S<U+00E1>nchez Carl-Jenkinson Héctor-Bellerín Mathieu-Debuchy Wojciech-Szczesny Willy-Caballero 

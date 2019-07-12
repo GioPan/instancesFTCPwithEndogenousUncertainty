@@ -1,0 +1,11 @@
+5   16.23   
+T1
+Morgan-Amalfitano Goran-Popov Liam-Ridgewell Youssouf-Mulumbu Claudio-Yacob George-Thorne James-Morrison Graham-Dorrans Zolt<U+00E1>n-Gera Chris-Brunt Shane-Long Victor-Anichebe Matej-Vydra Markus-Rosenberg Thievy-Bifouma Nicolas-Anelka Jonas-Olsson Gareth-McAuley Diego-Lugano St<U+00E9>phane-Sess<U+00E8>gnon Scott-Sinclair Billy-Jones Craig-Dawson Steven-Reid Ben-Foster Boaz-Myhill Luke-Daniels 
+T2
+Robert-Snodgrass Liam-Ridgewell Andrew-Robertson Youssouf-Mulumbu Claudio-Yacob George-Thorne James-Morrison Graham-Dorrans Chris-Brunt Jake-Livermore Shane-Long Victor-Anichebe Matej-Vydra Thievy-Bifouma Nicolas-Anelka Brown-Ideye Gareth-McAuley Diego-Lugano Harry-Maguire Gast<U+00F3>n-Ram<U+00ED>rez Silvestre-Varela Craig-Dawson Steven-Reid Cristian-Gamboa Boaz-Myhill Luke-Daniels Ben-Foster 
+T3
+Tom-Ince Goran-Popov Jason-Davidson Youssouf-Mulumbu Claudio-Yacob James-Morrison Graham-Dorrans Zolt<U+00E1>n-Gera Chris-Brunt Tom-Adeyemi Shane-Long Victor-Anichebe Matej-Vydra Markus-Rosenberg Nicolas-Anelka Kevin-Doyle Jonas-Olsson Diego-Lugano Bruno-Ecuele-Manga Ravel-Morrison Silvestre-Varela Billy-Jones Craig-Dawson Cristian-Gamboa Ben-Foster Boaz-Myhill Luke-Daniels 
+T4
+Tom-Ince Goran-Popov S<U+00E9>bastien-Pocognoli Youssouf-Mulumbu Claudio-Yacob George-Thorne Graham-Dorrans Zolt<U+00E1>n-Gera Chris-Brunt Tom-Adeyemi Shane-Long Victor-Anichebe Matej-Vydra Thievy-Bifouma Nicolas-Anelka Adam-Le-Fondre Jonas-Olsson Diego-Lugano Brede-Hangeland Ravel-Morrison Silvestre-Varela Billy-Jones Steven-Reid Andre-Wisdom Boaz-Myhill Luke-Daniels Ben-Foster 
+T5
+Tom-Ince Goran-Popov S<U+00E9>bastien-Pocognoli Youssouf-Mulumbu Claudio-Yacob George-Thorne Graham-Dorrans Zolt<U+00E1>n-Gera Chris-Brunt Chris-Baird Shane-Long Victor-Anichebe Matej-Vydra Markus-Rosenberg Thievy-Bifouma Abel-Hern<U+00E1>ndez Gareth-McAuley Diego-Lugano Bruno-Ecuele-Manga Sebasti<U+00E1>n-Blanco Georgios-Samaras Billy-Jones Craig-Dawson Andre-Wisdom Boaz-Myhill Luke-Daniels Ben-Foster 
