@@ -4,6 +4,7 @@ The instances have been adapted from those used in the article G. Pantuso **The 
 This repository contains 20 instances, one for each team in the English Premier League 2013/14, that is ARS, ASV, CAR, CHE, CRP, EVE, FUL, HUL, LIV, MAC, MAU, NEC, NOR, SOU, STO, SUN, SWA, TOT, WBA, WHU. In addition, a file is provided with the default parameters used in Pan19. The files are explained below.
 
 # Teams
+The folder [teams](./teams) contains the files describing the focal teams.
 Each focal team is described by two text files (.txt). One file contains the joint list of current and target players in the focal team and is identified by an appended "p", as in "arsp.txt" for the case of Arsenal FC. The second file contains a number of possible team compositions, and is identified by an appended "t", as in "arst.txt".
 
 Players files, (*p.txt) are organized as follows.
